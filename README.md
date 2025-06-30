@@ -1,15 +1,11 @@
 ## Hi there 👋
 
-![6039751765651473943](https://github.com/user-attachments/assets/a9a30174-16f8-4e53-97d3-d2b73408e0df) 
- 
-![ACTUAL DESIGN - This is what we publish!](https://github.com/user-attachments/assets/ab8486a6-aa44-4a4c-aebc-6097b640011c)
-
 
 <a target="_blank" rel="noopener noreferrer nofollow" 
    href="https://github.com/user-attachments/assets/ab8486a6-aa44-4a4c-aebc-6097b640011c">
   <img src="https://github.com/user-attachments/assets/ab8486a6-aa44-4a4c-aebc-6097b640011c" 
        alt="I am Ester Awad" 
-       style="max-width: 200%;">
+       style="max-width: 100%;">
 </a>
 
 
