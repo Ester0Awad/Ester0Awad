@@ -12,8 +12,8 @@ Technical Communication | Youth Development | Coding Experience | Data Managemen
 
 . 💬 Ask me about problem-solving tips, self-learning, Personal Growth, Soccer, Pinterest, and traveling tricks!  
 . 📫 How to reach me: ester.awad (Twitter, Instagram, Facebook) - Ester Abdel Shahid (LinkedIn)
-. 😄 Pronouns: She/Her
-. ⚡ Fun fact: I have been playing soccer for almost 10 years now 🐞, and I would choose to work as a soccer player if I quit the tech field. 
+        . 😄 Pronouns: She/Her
+        . ⚡ Fun fact: I have been playing soccer for almost 10 years now 🐞, and I would choose to work as a soccer player if I quit the tech field. 
 
 <!--
 **Ester0Awad/Ester0Awad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
