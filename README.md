@@ -1,5 +1,6 @@
 ## Hi there 👋
-![6039751765651473943](https://github.com/user-attachments/assets/a9a30174-16f8-4e53-97d3-d2b73408e0df) ![Uploading image.png…]()
+![6039751765651473943](https://github.com/user-attachments/assets/a9a30174-16f8-4e53-97d3-d2b73408e0df) 
+![Uploading image.png…]()
 
 
 🔭 Hello!👋 My name is Ester Abdel Shahid 🦋. I study Computer Science 👩‍💻 and Biology at Minerva University in San Francisco, California 🐝🌁🌉. 
