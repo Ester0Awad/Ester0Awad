@@ -2,6 +2,10 @@
 
 ![6039751765651473943](https://github.com/user-attachments/assets/a9a30174-16f8-4e53-97d3-d2b73408e0df) 
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nikxherrera/banner/main/img/nikka.png"><img src="https://raw.githubusercontent.com/nikxherrera/banner/main/img/nikka.png" alt="I am Ma. Nikka S. Herrera " style="max-width: 100%;"></a>
+
+
+
 🔭 Hello!👋 My name is Ester Abdel Shahid 🦋. I study Computer Science 👩‍💻 and Biology at Minerva University in San Francisco, California 🐝🌁🌉. 
 
 🌱 I’m currently learning Python and solving problems on LeetCode to get ready for SWE technical interviews!
