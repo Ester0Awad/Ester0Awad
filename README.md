@@ -9,7 +9,7 @@
    href="https://github.com/user-attachments/assets/ab8486a6-aa44-4a4c-aebc-6097b640011c">
   <img src="https://github.com/user-attachments/assets/ab8486a6-aa44-4a4c-aebc-6097b640011c" 
        alt="I am Ester Awad" 
-       style="max-width: 100%;">
+       style="max-width: 200%;">
 </a>
 
 
