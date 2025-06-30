@@ -5,7 +5,8 @@
 ![ACTUAL DESIGN - This is what we publish!](https://github.com/user-attachments/assets/ab8486a6-aa44-4a4c-aebc-6097b640011c)
 
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="![6039751765651473943](https://github.com/user-attachments/assets/0d39743e-1c1c-4fd1-9ec9-e8fb91d23038)"><img src=" ![ACTUAL DESIGN - This is what we publish!](https://github.com/user-attachments/assets/ab8486a6-aa44-4a4c-aebc-6097b640011c)
+<a target="_blank" rel="noopener noreferrer nofollow" href=" ![ACTUAL DESIGN - This is what we publish!](https://github.com/user-attachments/assets/ab8486a6-aa44-4a4c-aebc-6097b640011c)
+"><img src=" ![ACTUAL DESIGN - This is what we publish!](https://github.com/user-attachments/assets/ab8486a6-aa44-4a4c-aebc-6097b640011c)
 " alt="I am Ester Abdel Shahid " style="max-width: 100%;"></a>
 
 
