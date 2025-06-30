@@ -32,7 +32,15 @@ Technical Communication | Youth Development | Coding Experience | Data Managemen
         . 😄 Pronouns: She/Her
         . ⚡ Fun fact: I have been playing soccer for almost 10 years now 🐞, and I would choose to work as a soccer player if I quit the tech field. 
 
-        
+
+<a href="https://github.com/Ester0Awad"><img src="https://camo.githubusercontent.com/fbb043f6222f79cd431aef2de0ea1a59cad52fb1ef5c1c97ae8cf4110fce4a56/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6769746875622e737667" alt="github" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" style="max-width: 100%;"></a>
+
+<a href="www.linkedin.com/in/esterawad039" rel="nofollow"><img src="https://camo.githubusercontent.com/63c5628475bc11d3e5262b303261fcdb3d43a5f2a19b99eba7ce3b80cd0d0abc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="linkedin" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width: 100%;"></a>
+
+<a href="https://www.instagram.com/ester.awad/" rel="nofollow"><img src="https://camo.githubusercontent.com/57b262a80624af91ef759c7fb2a8c14168a928184e1d10f90f424e09c68b55f7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f696e7374616772616d2e737667" alt="instagram" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width: 100%;"></a>
+
+<a href="https://x.com/ester_awad" rel="nofollow"><img src="https://camo.githubusercontent.com/aaa996f5975329510c34de6f801b0cc4ccc2c3faad6133d3e0db9ffed2d7d07e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f747769747465722e737667" alt="twitter" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" style="max-width: 100%;"></a>
+
 
 <!--
 **Ester0Awad/Ester0Awad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
