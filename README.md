@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 
-<a href="https://github.com/Ester0Awad">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="40">
-</a>
-<a href="https://github.com/Ester0Awad">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="40">
+<a target="_blank" rel="noopener noreferrer nofollow" 
+   href="https://github.com/user-attachments/assets/ab8486a6-aa44-4a4c-aebc-6097b640011c">
+  <img src="https://github.com/user-attachments/assets/ab8486a6-aa44-4a4c-aebc-6097b640011c" 
+       alt="I am Ester Awad" 
+       style="max-width: 100%;">
 </a>
 
 
