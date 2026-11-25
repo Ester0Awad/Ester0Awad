@@ -9,7 +9,12 @@ Software Engineer | CS @ Minerva University
 - **[p5.sound.js](https://github.com/processing/p5.sound.js)** (Processing Foundation):
   - fixed misplaced HTML tags in reference examples ([#143](https://github.com/processing/p5.sound.js/pull/143))
   - added missing tags to reference examples ([#144](https://github.com/processing/p5.sound.js/pull/144))
-- **[lookit-api](https://github.com/lookit/lookit-api)** (Children Helping Science): [merged pull requests](https://github.com/lookit/lookit-api/pulls?q=is%3Apr+author%3AEster0Awad+is%3Amerged)
+- **[lookit-api](https://github.com/lookit/lookit-api)** (Children Helping Science, now live in production):
+  - added empty-state text to the participant list ([#1980](https://github.com/lookit/lookit-api/pull/1980), closes [#1173](https://github.com/lookit/lookit-api/issues/1173))
+  - included localhost in the local dev certificate ([#1993](https://github.com/lookit/lookit-api/pull/1993))
+  - fixed typos in researcher-facing text and aria labels ([#1996](https://github.com/lookit/lookit-api/pull/1996))
+  - fixed the 404 page's image markup ([#1997](https://github.com/lookit/lookit-api/pull/1997))
+  - [all merged pull requests](https://github.com/lookit/lookit-api/pulls?q=is%3Apr+author%3AEster0Awad+is%3Amerged)
 
 ### In review
 
@@ -21,6 +26,10 @@ Software Engineer | CS @ Minerva University
   - added the `p5.Distortion` effect ([#141](https://github.com/processing/p5.sound.js/pull/141))
   - fixed `jump()` crashing on a paused sound ([#142](https://github.com/processing/p5.sound.js/pull/142))
   - added a reference example for `Oscillator.phase()` ([#145](https://github.com/processing/p5.sound.js/pull/145))
+
+## Projects
+
+- **[Study Focus Tracker](https://github.com/Ester0Awad/study-focus-tracker)**: Arduino desk device that measures real study focus time, with a Node.js logger and web dashboard
 
 ## Connect
 
